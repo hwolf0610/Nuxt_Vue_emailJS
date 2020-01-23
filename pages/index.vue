@@ -3,12 +3,19 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-vue-emailjs
+        emailjs_nuxt
       </h1>
       <h2 class="subtitle">
-        This is email send project
+        My groundbreaking Nuxt.js project
       </h2>
       <div class="links">
+        <a
+          href="/emailjs"
+          target="_blank"
+          class="button--green"
+        >
+          Emailjs
+        </a>
         <a
           href="https://nuxtjs.org/"
           target="_blank"

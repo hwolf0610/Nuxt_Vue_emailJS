@@ -1,6 +1,6 @@
-# nuxt-vue-emailjs
+# emailjs_nuxt
 
-> This is email send project
+> My groundbreaking Nuxt.js project
 
 ## Build Setup
 
